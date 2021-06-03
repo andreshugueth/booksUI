@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
+## Clone the repo
+
+```bash
+$ git clone https://github.com/andreshugueth/booksUI.git
+```
+Go to the `booksUI` directory
+
+```bash
+$ cd booksUI
+```
+
 ## Backend
 
 This project uses the [Book_api](https://github.com/andreshugueth/books_api) project as backend.
